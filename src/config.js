@@ -1,38 +1,34 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
+  siteTitle: 'Shivam Gupta | Student at Jain University',
   siteDescription:
-    'Chandrika Deb is a Software Engineer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Shivam is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, face mask, face mask detection, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Shivam Gupta, Shivam, shivam, Gupta, thisisshivamgupta, android developer, jamshedpur, bangalore, itisshivamgupta, mantri, jain university',
+  siteUrl: 'https://thisisshivamgupta.github.io/My-Portfolio/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Shivam Gupta',
+  location: 'Bangalore, India',
+  email: 'thisisshivamgupta@gmail.com',
+  github: 'https://github.com/thisisshivamgupta/',
+  twitterHandle: '@itisshivamgupta',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/thisisshivamgupta/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://www.linkedin.com/in/thisisshivamgupta/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/___cd.___/',
+      url: 'https://www.instagram.com/thisisshivamgupta/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/itisshivamgupta',
     },
   ],
 

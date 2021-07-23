@@ -1,19 +1,16 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'badge.png'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
+  - Java
   - IntelliJ Idea
+  - Git & GitHub
+  - Android development
+  - Discord Bot developer
 ---
 
-Hello! Interestingly, I have been a student of Bio-Maths in my high school and got introduced to programming in my freshman year at [BIT Mesra](https://www.bitmesra.ac.in/). Since then, I started developing Web and ML projects, and completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
-
-Today, I'm currently working as a scrum developer responsible for several microservices code development and testing in Amdocs Technology Billing and RTB project.
-
-I have also been awarded as Winner in Design Thinking Hackathon and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1laynNsd9hIqxL-imT8dkAWqq7ZO4hj1a/view?usp=sharing) by Amdocs.
-
-Here is a list of the technologies that I work with in Amdocs!
+Hello!</br>
+I am a third-year student. </br>Currently pursuing computer science and engineering at the [Faculty of Engineering and Technology-Jain University](https://set.jainuniversity.ac.in/), Bangalore, India.</br></br>
+Who loves to create android applications, enjoys creating hack with discord Bot using java programming languages.</br></br>
+I've always admired the people who evolve the technology to ease the way of life.</br>
+Keeping track of trends related to technology is my passion!
