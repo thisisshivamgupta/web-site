@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'MusicPlayer'
+title: 'Confidential'
 cover: 'demo2.png'
 github: 'https://github.com/thisisshivamgupta/Android-App-QR-Generator.git'
 external: ''
