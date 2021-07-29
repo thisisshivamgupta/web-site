@@ -19,7 +19,7 @@ module.exports = {
       options: {
         name: 'Shivam Gupta',
         short_name: 'ShivamGupta',
-        start_url: 'https://thisisshivamgupta.github.io/My-Portfolio/',
+        start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
