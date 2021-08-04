@@ -6,7 +6,7 @@ github: 'https://github.com/thisisshivamgupta/Android-App-QR-Generator.git'
 external: ''
 tech:
   - JAVA
-  - Visualizer API
+  - API
   - Android Studio
 
 showInProjects: true

@@ -1,6 +1,6 @@
 ---
 title: 'Discord Bot'
-github: 'https://github.com/thisisshivamgupta/OctoPet-Discord-Bot'
+github: 'https://github.com/thisisshivamgupta/Android-App-QR-Generator.git'
 external: ''
 tech:
   - Java
