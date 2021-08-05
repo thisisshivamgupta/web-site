@@ -77,10 +77,10 @@
   "main": "gatsby-browser.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chandrikadeb7/chandrikadeb7.github.io.git"
+    "url": "git+https://github.com/thisisshivamgupta/thisisshivamgupta.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io/issues"
+    "url": "https://github.com/thisisshivamgupta/thisisshivamgupta.github.io/issues"
   },
-  "homepage": "https://github.com/chandrikadeb7/chandrikadeb7.github.io#readme"
+  "homepage": "https://github.com/thisisshivamgupta/thisisshivamgupta.github.io#readme"
 }
