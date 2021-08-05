@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://thisisshivamgupta.github.io/sitemap/sitemap-index.xml
+Sitemap: https://thisisshivamgupta.github.io/thisisshivamgupta.github.io/sitemap/sitemap-index.xml
 Host: https://thisisshivamgupta.github.io
